@@ -1,0 +1,198 @@
+body{
+    background-color: rgb(236, 245, 245); 
+    margin: 0;
+    padding: 0;
+ }
+ .top{
+     background-color: #B55550;
+     padding: 10px 0;
+     color: white;
+     text-align: center;
+ }
+ .top a{
+    color:#fff;
+    text-decoration: none;
+ }
+ .gpa{
+     background-color: #F2C38B;
+     padding: 30px 0;
+ }
+ .gpa img{
+     width: 110px;
+ }
+ .gpa h1{
+     color: #74353F;
+     text-align: center;
+     text-shadow: 3px 2px 4px rgb(121, 72, 72);
+ }
+ .gpa h4{
+     color: black;
+    
+ }
+ .principal{
+    background-color: #fffaf5;
+    text-align: center;
+    padding-top: 20px;
+ }
+ .principal p{
+    text-align: justify;
+    margin: 0;
+    font-size:14px;
+ }
+ .principal h3{
+    text-align: right;
+ }
+ .principal h6{
+    text-align: right;
+ }
+
+
+ .course{
+    background-color: #d8ccc0;
+    text-align: center;
+    padding-top: 30px;
+ }
+ .box {
+    background: #fff;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+}
+.box img { 
+    width: 100%;    
+    transition: all 2s;
+}
+
+.box h3 {
+    font:bold 20px arial;
+    margin-top: 20px;
+
+    
+}
+.box:hover img{
+    transform: rotate(360deg);
+}
+.row3{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.sbte{
+    background-color: antiquewhite;
+    padding:5px;
+}
+.sbte p{
+    text-align:center;
+}
+.sbte a{
+    display: block;
+    text-decoration: none;
+}
+ .foot{
+    background-color: black;
+    padding: 20px;
+    
+ }
+ .foot h3{
+    color: white;
+    border-left: solid 5px;
+    
+ }
+ 
+.foot h5{
+    color: #F2C38B;
+    
+}
+.foot h6{
+    text-decoration: none;
+    
+}
+.foot h6,a:hover{
+    display: block;
+}
+.foot p{
+    color:#F2C38B;
+    
+}
+.foot ul{
+    list-style-type: none;
+    margin: 0;
+    list-style-position: inside;
+    color: #C87F4A;
+    padding: 0;
+}
+
+.foot a{
+    text-decoration: none;
+    color: #C87F4A;
+    display: block;
+}
+.foot a:hover{
+    
+    transform:translate(3px,0);
+}
+.foot h6{
+    color: #fff;
+    
+}
+.white-line{
+    width: 100%;
+    height: 2px;
+    margin: 10px 0;
+    background:linear-gradient(to right,transparent,white,transparent);
+
+}
+.bottomarea {
+    text-align: center;
+}
+.bottomarea p{
+    color:  #ffffff;
+}
+.about{
+    text-align: center;
+}
+.griev{
+    
+    text-align: center;
+    padding-top: 20px;
+}
+.nav{
+    background-color: #e9d7c6;
+}
+
+.gallery{
+    text-align: center;
+    padding-top: 20px;
+    position: relative;
+}
+
+.box1{
+    border:solid 5px #7F332F;
+    margin: 20px;
+    padding-left: 0; 
+}
+.box1:hover{
+    border:solid 5px #af635f;
+}
+.adm{
+    text-align: center;
+    padding-top: 20px;
+}
+.adm p{
+    padding-top: 20px;
+    
+}
+.cont{
+    padding-top: 20px;
+    text-align: center;
+}
+.faq{
+    padding-top: 20px;
+    text-align: center;
+}
+.box2 h5{
+    color:#B75651;
+    text-align: left;
+}
+.box2:hover{
+    box-shadow: #5e4d4c;
+}
